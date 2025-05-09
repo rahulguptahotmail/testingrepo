@@ -1,2 +1,2 @@
 console.log('hello world');
-const rahlul= 10
+const rahlul= 30
