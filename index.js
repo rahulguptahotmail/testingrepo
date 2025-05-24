@@ -1,2 +1,2 @@
 console.log('hello world');
-const rahlul= 30
+const rahlul= 300
